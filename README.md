@@ -1,6 +1,6 @@
 # lifestyle-project
 I have made a Static website by using the front end languages(HTML, CSS, JAVASCRIPT) and then deployed it by using "AZURE STATIC WEB APPS".
-##Azure Static Web Apps
+## Azure Static Web Apps
 Azure link https://jolly-wave-08a823210.3.azurestaticapps.net
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/96143034/233632407-41582da2-52fe-49f1-b1e2-1196daa7e49b.png)
