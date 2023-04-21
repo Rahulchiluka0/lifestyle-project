@@ -13,9 +13,9 @@ After deploying I have used Azure Blob Storage to upload all the content of the 
 Azure Blob storage is a feature of Microsoft Azure. It allows users to store large amounts of unstructured data on Microsoft's data storage platform.
 ## Azure Blob Storage Service
 
-![Screenshot (68)](https://user-images.githubusercontent.com/96143034/233633606-43d13c3d-8cf8-4456-8c36-0c2873c82763.png)
-![Screenshot (30)](https://user-images.githubusercontent.com/96143034/233633615-a7450f29-1298-435d-98f7-447c6163bbe6.png)
-![Screenshot (29)](https://user-images.githubusercontent.com/96143034/233633618-016668e5-620a-40df-a3d0-a91d6231ab77.png)
-![Screenshot (28)](https://user-images.githubusercontent.com/96143034/233633623-15e13c5e-7c47-481f-9a7a-2370180cc8b8.png)
-![Screenshot (26)](https://user-images.githubusercontent.com/96143034/233633630-3d886824-4d5d-42d6-bce4-1863fc2b74e7.png)
-![Screenshot (25)](https://user-images.githubusercontent.com/96143034/233633632-ee11e0f5-a5e9-4567-9bca-10c713e2ce4d.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/96143034/233634220-30ce7b75-7193-46e4-8514-4dbdb650e4a0.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/96143034/233634229-88c5841c-db46-4236-8aea-25f01f137626.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/96143034/233634236-104f73f8-800d-464b-bcba-315937f66273.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/96143034/233634240-e3617f14-a33d-450f-84c3-be424cfaec68.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/96143034/233634248-170ce628-9764-4db4-8e04-13fa5e4b6650.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/96143034/233634252-a6d8644e-5021-4805-a93b-7904426b7316.png)
